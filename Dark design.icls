@@ -1,10 +1,10 @@
 <scheme name="Dark design" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-02-10T20:35:11</property>
+    <property name="created">2018-08-06T11:20:53</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.1.0.9</property>
-    <property name="modified">2018-02-10T20:35:17</property>
+    <property name="ideVersion">3.2.0.22</property>
+    <property name="modified">2018-08-06T11:21:01</property>
     <property name="originalScheme">Dark design</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.05" />
@@ -1129,7 +1129,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="ff79c6" />
+        <option name="FOREGROUND" value="ff8a80" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
